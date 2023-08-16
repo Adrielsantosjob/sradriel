@@ -6,10 +6,9 @@ Apreciando o Front-end e explorando os desafios do Back-end.
 - 💬 Gosto de aprender e compartilhar conhecimentos com a comunidade de desenvolvimento.
 
 <!-- GitHub Stats -->
-## GitHub Stats
+## Status
+![Jogo Nintendo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F531424824775373829%2F&psig=AOvVaw2aixLnVObIo26doFrJ_vyJ&ust=1692232681570000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDlu5L434ADFQAAAAAdAAAAABAg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUÁRIO&layout=compact&hide=html)](https://github.com/SEU_NOME_DE_USUÁRIO)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUÁRIO&show_icons=true)](https://github.com/SEU_NOME_DE_USUÁRIO)
 
 <!-- Linguagens -->
 ## Linguagens
@@ -22,9 +21,9 @@ Apreciando o Front-end e explorando os desafios do Back-end.
 </div>
 
 <!-- Gráfico de Desempenho de Estudos -->
-## Gráfico de Desempenho de Estudos
+## Desempenho de Estudos
 
-Aqui está um gráfico que mostra meu desempenho de estudos ao longo do tempo:
+Aqui está um gráfico:
 
 [![Gráfico de Desempenho de Estudos](URL_DO_SEU_GRAFICO)](URL_DO_SEU_GRAFICO)
 
