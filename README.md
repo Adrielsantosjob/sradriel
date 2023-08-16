@@ -7,7 +7,7 @@ Apreciando o Front-end e explorando os desafios do Back-end.
 
 <!-- GitHub Stats -->
 ## Status
-![Jogo Nintendo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F531424824775373829%2F&psig=AOvVaw2aixLnVObIo26doFrJ_vyJ&ust=1692232681570000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDlu5L434ADFQAAAAAdAAAAABAg)
+![deployer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F531424824775373829%2F&psig=AOvVaw2aixLnVObIo26doFrJ_vyJ&ust=1692232681570000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDlu5L434ADFQAAAAAdAAAAABAg)
 
 
 <!-- Linguagens -->
