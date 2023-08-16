@@ -1,6 +1,6 @@
 ## Olá, eu sou o Adriel! 👋
 
-Apreciando o Front-end e explorando os desafios do Back-end.
+Explorando os desafios do Back-end.
 
 - 🌱 Estudando React, Vue.js e Node.js.
 - 💬 Gosto de aprender e compartilhar conhecimentos com a comunidade de desenvolvimento.
